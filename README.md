@@ -1,3 +1,5 @@
+Este es el nuevo Nft Club Sofa
+
 
 Comandos a usar:
 <br>
